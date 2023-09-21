@@ -5,5 +5,6 @@ public class StudentController {
     {
         System.out.println( "Hola soy Carmen!" );
         System.out.println( "Hola soy Sandy!" );
+        System.out.println( "Somos C24!" );
     }
 }
